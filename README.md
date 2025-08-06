@@ -1,1 +1,5 @@
-task 1 task management app# CODSOFT
+task 1 TO DO LIST# CODSOFT
+Task 2 Simple calculator
+Task 3 PASSWORD GENERATOR
+TASK 4 ROCK PAPER SCISSOR GAME
+TAK 5 CONTACT BOOK
