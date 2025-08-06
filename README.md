@@ -1,5 +1,1 @@
-task 1 TO DO LIST# CODSOFT
-Task 2 Simple calculator
-Task 3 PASSWORD GENERATOR
-TASK 4 ROCK PAPER SCISSOR GAME
-TAK 5 CONTACT BOOK
+Welcome to my internship project repository for the Codsoft python Development internship this repositry contains all the tasks i completed during the internship each demonstrating practical python skills through real world mini projects and applications
